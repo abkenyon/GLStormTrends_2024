@@ -4,7 +4,7 @@ This repository contains the code necessary to create all data used in AGU GRL p
 
  - **cut_and_stitch.py**: Use this script to take two yearly ERA5 netCDF files and combine them into one cold-season ERA5 file. ;
 
-###Once all data is organized into seasonal files, the workflow to detect, filter, and track extratropical cyclones will be:
+### Once all data is organized into seasonal files, the workflow to detect, filter, and track extratropical cyclones will be:
 
 _storm_detection.py_ $\rightarrow$ _storm_filtering.py_ $\rightarrow$ _storm_tracking.py_
 
