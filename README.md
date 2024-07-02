@@ -18,4 +18,16 @@ _storm_detection.py_ $\rightarrow$ _storm_filtering.py_ $\rightarrow$ _storm_tra
 
  - **storm_functions.py**: A library of functions used throughout the storm tracking workflow. Also contains a useful plotting function that creates a figure map of the Great Lakes Region, along with an axis handle and projection class allowing additional data to be plotted on the map. 
 
- - **storm_composite.py** Creates seasonal storm-centered composites of extratropical cyclones (ETCs) that pass through the GLR. 
+ - **storm_composite.py** Creates seasonal storm-centered composites of extratropical cyclones (ETCs) that pass through the GLR.
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
