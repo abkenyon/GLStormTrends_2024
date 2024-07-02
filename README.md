@@ -21,6 +21,8 @@ _storm_detection.py_ $\rightarrow$ _storm_filtering.py_ $\rightarrow$ _storm_tra
  - **storm_composite.py** Creates seasonal storm-centered composites of extratropical cyclones (ETCs) that pass through the GLR.
 
 
+DOI: 10.5281/zenodo.12627444
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
