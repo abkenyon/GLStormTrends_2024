@@ -22,6 +22,12 @@ _storm_detection.py_ $\rightarrow$ _storm_filtering.py_ $\rightarrow$ _storm_tra
 
 *UPDATE 08/2025*
 
+ - **storm_composite_teleconnection.py** Creates storm-centered composites of ETCs that pass through the GLR based on the teleconnection phase that was occurring at the time of GLR impact.
+
+ - **storm_spatial_means.py** Finds the spatially averaged value of different meteorological variables (temperature, precipitation, etc.) for each individual GL ETC from 1960-2021.
+
+ - **composite_differences_table** Calculates the mean difference and statistical significance of the difference between positive- and negative-phase GL ETC composites. 
+
 
 DOI: 10.5281/zenodo.12627444
 
